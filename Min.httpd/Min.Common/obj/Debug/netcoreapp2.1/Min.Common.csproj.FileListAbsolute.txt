@@ -1,9 +1,0 @@
-C:\Users\markl\Documents\GitHub\Min.httpd\Min.httpd\Min.Common\bin\Debug\netcoreapp2.1\Min.Common.deps.json
-C:\Users\markl\Documents\GitHub\Min.httpd\Min.httpd\Min.Common\bin\Debug\netcoreapp2.1\Min.Common.dll
-C:\Users\markl\Documents\GitHub\Min.httpd\Min.httpd\Min.Common\bin\Debug\netcoreapp2.1\Min.Common.pdb
-C:\Users\markl\Documents\GitHub\Min.httpd\Min.httpd\Min.Common\obj\Debug\netcoreapp2.1\Min.Common.csprojAssemblyReference.cache
-C:\Users\markl\Documents\GitHub\Min.httpd\Min.httpd\Min.Common\obj\Debug\netcoreapp2.1\Min.Common.csproj.CoreCompileInputs.cache
-C:\Users\markl\Documents\GitHub\Min.httpd\Min.httpd\Min.Common\obj\Debug\netcoreapp2.1\Min.Common.AssemblyInfoInputs.cache
-C:\Users\markl\Documents\GitHub\Min.httpd\Min.httpd\Min.Common\obj\Debug\netcoreapp2.1\Min.Common.AssemblyInfo.cs
-C:\Users\markl\Documents\GitHub\Min.httpd\Min.httpd\Min.Common\obj\Debug\netcoreapp2.1\Min.Common.dll
-C:\Users\markl\Documents\GitHub\Min.httpd\Min.httpd\Min.Common\obj\Debug\netcoreapp2.1\Min.Common.pdb
