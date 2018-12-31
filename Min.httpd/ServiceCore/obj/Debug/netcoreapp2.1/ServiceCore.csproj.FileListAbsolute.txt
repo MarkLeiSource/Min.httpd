@@ -1,0 +1,12 @@
+C:\Users\markl\Documents\GitHub\Min.httpd\Min.httpd\ServiceCore\bin\Debug\netcoreapp2.1\ServiceCore.deps.json
+C:\Users\markl\Documents\GitHub\Min.httpd\Min.httpd\ServiceCore\bin\Debug\netcoreapp2.1\ServiceCore.dll
+C:\Users\markl\Documents\GitHub\Min.httpd\Min.httpd\ServiceCore\bin\Debug\netcoreapp2.1\ServiceCore.pdb
+C:\Users\markl\Documents\GitHub\Min.httpd\Min.httpd\ServiceCore\bin\Debug\netcoreapp2.1\Min.Common.dll
+C:\Users\markl\Documents\GitHub\Min.httpd\Min.httpd\ServiceCore\bin\Debug\netcoreapp2.1\Min.Common.pdb
+C:\Users\markl\Documents\GitHub\Min.httpd\Min.httpd\ServiceCore\obj\Debug\netcoreapp2.1\ServiceCore.csprojAssemblyReference.cache
+C:\Users\markl\Documents\GitHub\Min.httpd\Min.httpd\ServiceCore\obj\Debug\netcoreapp2.1\ServiceCore.csproj.CoreCompileInputs.cache
+C:\Users\markl\Documents\GitHub\Min.httpd\Min.httpd\ServiceCore\obj\Debug\netcoreapp2.1\ServiceCore.AssemblyInfoInputs.cache
+C:\Users\markl\Documents\GitHub\Min.httpd\Min.httpd\ServiceCore\obj\Debug\netcoreapp2.1\ServiceCore.AssemblyInfo.cs
+C:\Users\markl\Documents\GitHub\Min.httpd\Min.httpd\ServiceCore\obj\Debug\netcoreapp2.1\ServiceCore.csproj.CopyComplete
+C:\Users\markl\Documents\GitHub\Min.httpd\Min.httpd\ServiceCore\obj\Debug\netcoreapp2.1\ServiceCore.dll
+C:\Users\markl\Documents\GitHub\Min.httpd\Min.httpd\ServiceCore\obj\Debug\netcoreapp2.1\ServiceCore.pdb

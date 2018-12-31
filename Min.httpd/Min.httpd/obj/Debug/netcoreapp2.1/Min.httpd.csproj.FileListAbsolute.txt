@@ -1,0 +1,14 @@
+C:\Users\markl\Documents\GitHub\Min.httpd\Min.httpd\Min.httpd\bin\Debug\netcoreapp2.1\Min.httpd.deps.json
+C:\Users\markl\Documents\GitHub\Min.httpd\Min.httpd\Min.httpd\bin\Debug\netcoreapp2.1\Min.httpd.runtimeconfig.json
+C:\Users\markl\Documents\GitHub\Min.httpd\Min.httpd\Min.httpd\bin\Debug\netcoreapp2.1\Min.httpd.runtimeconfig.dev.json
+C:\Users\markl\Documents\GitHub\Min.httpd\Min.httpd\Min.httpd\bin\Debug\netcoreapp2.1\Min.httpd.dll
+C:\Users\markl\Documents\GitHub\Min.httpd\Min.httpd\Min.httpd\bin\Debug\netcoreapp2.1\Min.httpd.pdb
+C:\Users\markl\Documents\GitHub\Min.httpd\Min.httpd\Min.httpd\bin\Debug\netcoreapp2.1\Min.Common.dll
+C:\Users\markl\Documents\GitHub\Min.httpd\Min.httpd\Min.httpd\bin\Debug\netcoreapp2.1\Min.Common.pdb
+C:\Users\markl\Documents\GitHub\Min.httpd\Min.httpd\Min.httpd\obj\Debug\netcoreapp2.1\Min.httpd.csprojAssemblyReference.cache
+C:\Users\markl\Documents\GitHub\Min.httpd\Min.httpd\Min.httpd\obj\Debug\netcoreapp2.1\Min.httpd.csproj.CoreCompileInputs.cache
+C:\Users\markl\Documents\GitHub\Min.httpd\Min.httpd\Min.httpd\obj\Debug\netcoreapp2.1\Min.httpd.AssemblyInfoInputs.cache
+C:\Users\markl\Documents\GitHub\Min.httpd\Min.httpd\Min.httpd\obj\Debug\netcoreapp2.1\Min.httpd.AssemblyInfo.cs
+C:\Users\markl\Documents\GitHub\Min.httpd\Min.httpd\Min.httpd\obj\Debug\netcoreapp2.1\Min.httpd.csproj.CopyComplete
+C:\Users\markl\Documents\GitHub\Min.httpd\Min.httpd\Min.httpd\obj\Debug\netcoreapp2.1\Min.httpd.dll
+C:\Users\markl\Documents\GitHub\Min.httpd\Min.httpd\Min.httpd\obj\Debug\netcoreapp2.1\Min.httpd.pdb
